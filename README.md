@@ -83,7 +83,7 @@ Este proyecto tiene como objetivo identificar los factores que influyen en la ca
 
 Puedes ejecutar este proyecto directamente en Google Colab sin necesidad de instalar nada localmente:
 
-👉 [Abrir en Google Colab](https://colab.research.google.com/)
+👉 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jhoncito07/TelecomX_LATAM_Part2.git/blob/main/notebooks/TelecomX_LATAM_Part2.ipynb) 
 
 ### Alternativamente, si prefieres ejecutarlo localmente:
 
